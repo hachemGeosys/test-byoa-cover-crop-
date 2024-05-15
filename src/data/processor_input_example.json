@@ -1,0 +1,17 @@
+{
+  "parametersProfile": "Profile1",
+  "parameters": {
+      "season_duration": 123,
+      "season_start_day": 1,
+      "season_start_month": 1,
+      "historical": true
+  },
+  "data": [
+      {
+          "id": "123",
+          "crop": "crop1",
+          "year": 2023,
+          "feature": "POLYGON(())"
+      }
+  ]
+}

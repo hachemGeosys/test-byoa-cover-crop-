@@ -1,0 +1,5 @@
+name = "cover-crop"
+slug = "cover_crop"
+summary = "this is the cover crop processor"
+description = "this is the cover crop processor"
+author = "me myself and i"
